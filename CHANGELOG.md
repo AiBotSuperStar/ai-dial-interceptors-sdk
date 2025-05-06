@@ -1,1 +1,36 @@
-IyBDaGFuZ2Vsb2cKCkFsbCBub3RhYmxlIGNoYW5nZXMgdG8gdGhpcyBwcm9qZWN0IHdpbGwgYmUgZG9jdW1lbnRlZCBpbiB0aGlzIGZpbGUuCgpUaGUgZm9ybWF0IGlzIGJhc2VkIG9uIFtLZWVwIGEgQ2hhbmdlbG9nXShodHRwczovL2tlZXBhY2hhbmdlbG9nLmNvbS9lbi8xLjAuMC8pLAphbmQgdGhpcyBwcm9qZWN0IGFkaGVyZXMgdG8gW1NlbWFudGljIFZlcnNpb25pbmddKGh0dHBzOi8vc2VtdmVyLm9yZy9zcGVjL3YyLjAuMC5odG1sKS4KCiMjIFtVbnJlbGVhc2VkXQoKIyMjIEFkZGVkCi0gQWRkIG1haW50YWluZXJzIGxpc3Q6IEFkZGVkIGBNQUlOVEFJTkVSUy5tZGAgZmlsZSB3aXRoIHRoZSBsaXN0IG9mIG1haW50YWluZXJzIGZvciB0aGUgcHJvamVjdC4KLSBTdXBwb3J0IGJvZHkgd2l0aCBubyBtb2RlbDogQWRkZWQgc3VwcG9ydCBmb3IgYm9keSB3aXRoIG5vIG1vZGVsLgotIFVwZGF0ZSBpbnRlcmNlcHRvcl90b19lbWJlZGRpbmdzX2hhbmRsZXI6IFVwZGF0ZWQgaW50ZXJjZXB0b3JfdG9fZW1iZWRkaW5nc19oYW5kbGVyLgoKIyMjIENoYW5nZWQKLSBQaW4gcG9ldHJ5IHRvIDEuOC41OiBQaW5uZWQgcG9ldHJ5IHZlcnNpb24gdG8gMS44LjUuCi0gQnVtcCBlcGFtL2FpLWRpYWwtY2kgZnJvbSAxLjEwLjAgdG8gMS4xMC4yOiBVcGRhdGVkIGVwYW0vYWktZGlhbC1jaSB2ZXJzaW9uLgotIEJ1bXAgamluamEyIGZyb20gMy4xLjQgdG8gMy4xLjU6IFVwZGF0ZWQgamluamEyIHZlcnNpb24uCi0gQnVtcCBzdGFybGV0dGUgZnJvbSAwLjM2LjMgdG8gMC40MC4wOyBmYXN0YXBpIGZyb20gMC4xMDkuMiB0byAwLjExNS4yOiBVcGRhdGVkIHN0YXJsZXR0ZSBhbmQgZmFzdGFwaSB2ZXJzaW9ucy4KLSBNaWdyYXRlZCBhaW9odHRwIGZyb20gMy45LjUgdG8gMy4xMC4yOiBVcGRhdGVkIGFpb2h0dHAgdmVyc2lvbi4KLSBCdW1wIGVwYW0vYWktZGlhbC1jaSBmcm9tIDEuOS4xIHRvIDEuOS4yOiBVcGRhdGVkIGVwYW0vYWktZGlhbC1jaSB2ZXJzaW9uLgotIEJ1bXAgZXBhbS9haS1kaWFsLWNpIGZyb20gMS45LjIgdG8gMS45LjQ6IFVwZGF0ZWQgZXBhbS9haS1kaWFsLWNpIHZlcnNpb24uCi0gQnVtcCBlcGFtL2FpLWRpYWwtY2kgZnJvbSAxLjkuNCB0byAxLjEwLjA6IFVwZGF0ZWQgZXBhbS9haS1kaWFsLWNpIHZlcnNpb24uCi0gQnVtcCBlcGFtL2FpLWRpYWwtY2kgZnJvbSAxLjEwLjAgdG8gMS4xMC4yOiBVcGRhdGVkIGVwYW0vYWktZGlhbC1jaSB2ZXJzaW9uLgotIEJ1bXAgYWlvaHR0cCBmcm9tIDMuMTAuMiB0byAzLjEwLjExOiBVcGRhdGVkIGFpb2h0dHAgdmVyc2lvbi4KLSBCdW1wIHByb3RvYnVmIGZyb20gNS4yOS4wIHRvIDUuMjkuMTogVXBkYXRlZCBwcm90b2J1ZiB2ZXJzaW9uLgoKIyMjIEZpeGVkCi0gRml4ZWQgcHJvcGFnYXRpb24gb2YgZXhjZXB0aW9ucyBmcm9tIHVwc3RyZWFtIGVuZHBvaW50cy4KLSBGaXhlZCBNYWtlZmlsZS4KLSBGaXhlZCBwYWNrYWdlX3Jvb3RfZGlyIGhlbHBlci4KCiMjIyBSZW1vdmVkCi0gUmVtb3ZlZCBlbi1jb3JlLXdlYi1zbSBhcyBhbiBleHBsaWNpIGRlcGVuZGVuY3kuCi0gUmVtb3ZlZCBhc3NldHMgZnJvbSB0aGUgcGFja2FnZS4KCiMjIFZlcnNpb24gMS4wLjAKLSBBZGRlZDogQ3JlYXRlZCB0aGUgQ0hBTkdFTE9HLm1kIGZpbGUgd2l0aCBzZWN0aW9ucyBmb3IgZWFjaCB2ZXJzaW9uLCBpbmNsdWRpbmcgYWRkZWQsIGNoYW5nZWQsIGRlcHJlY2F0ZWQsIHJlbW92ZWQsIGZpeGVkLCBhbmQgc2VjdXJpdHkgdXBkYXRlcy4K
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [Unreleased]
+
+### Added
+- Add maintainers list: Added `MAINTAINERS.md` file with the list of maintainers for the project.
+- Support body with no model: Added support for body with no model.
+- Update interceptor_to_embeddings_handler: Updated interceptor_to_embeddings_handler.
+
+### Changed
+- Pin poetry to 1.8.5: Pinned poetry version to 1.8.5.
+- Bump epam/ai-dial-ci from 1.10.0 to 1.10.2: Updated epam/ai-dial-ci version.
+- Bump jinja2 from 3.1.4 to 3.1.5: Updated jinja2 version.
+- Bump starlette from 0.36.3 to 0.40.0; fastapi from 0.109.2 to 0.115.2: Updated starlette and fastapi versions.
+- Migrated aiohttp from 3.9.5 to 3.10.2: Updated aiohttp version.
+- Bump epam/ai-dial-ci from 1.9.1 to 1.9.2: Updated epam/ai-dial-ci version.
+- Bump epam/ai-dial-ci from 1.9.2 to 1.9.4: Updated epam/ai-dial-ci version.
+- Bump epam/ai-dial-ci from 1.9.4 to 1.10.0: Updated epam/ai-dial-ci version.
+- Bump epam/ai-dial-ci from 1.10.0 to 1.10.2: Updated epam/ai-dial-ci version.
+- Bump aiohttp from 3.10.2 to 3.10.11: Updated aiohttp version.
+- Bump protobuf from 5.29.0 to 5.29.1: Updated protobuf version.
+
+### Fixed
+- Fixed propagation of exceptions from upstream endpoints.
+- Fixed Makefile.
+- Fixed package_root_dir helper.
+
+### Removed
+- Removed en-core-web-sm as an explicit dependency.
+- Removed assets from the package.
+
